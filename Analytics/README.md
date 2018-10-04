@@ -22,3 +22,14 @@ The first question to ask is why Facebook is promoting **Groups**. Facebook is e
 Compared to **Pages**, **Groups** are more interactive. Businesses can create **Groups** besides **Pages**, and **Groups** will give the 'Super-fans' a chance to interact with each other as well as with the brand itself. **groups** create a powerful ecosystem in which members forge meaningful connections with your business.
 
 So, how do we measure **Groups**? Are they healthy? Echo why **Groups** are created, we want people to interact with each other in the group. So, metrics can be **Number of Members**, **Daily Active Members**, **Daily Conversions**, etc. **Number of Members** can tell whether there are enough people get involved in the group. If a group has few members or one billion members, it does not look good. We also want members to be active in the group, dummy/Mummy members are meaningless. So, **Daily Active Members** tells how many members are active. The **Daily Active Members** only tell part of the story, and **Daily Conversions** tells the other half of the story about how active the group is. Other metrics can be **Number of New Members**, which shows how the group is growing.
+
+#### How would you find the cause of a 15% drop in Facebook Groups usage?
+
+  - [Here](https://medium.com/stellarpeers/how-would-you-find-the-cause-of-a-15-drop-in-facebook-groups-usage-47a09de6ef30) is a link to talk about this.
+  - The interviewer is testing to see if you have an organized and logical approach to solving problems.
+  - Dig in a little bit more:
+    - TIME: Is the decline in engagement a one-time event or has it happened progressively?
+    - REGION: Is the decline happening in an isolated region?
+    - PLATFORMS: Is the decline happening on specific platforms, like iOS, Android or others?
+    - OTHER FEATURES: Is the decline in engagement happening in other Facebook features besides Facebook Groups?
+    - COMPETITORS: Is the decline in engagement also happening in competitive products?
