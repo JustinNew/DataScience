@@ -35,3 +35,7 @@ So, how do we measure **Groups**? Are they healthy? Echo why **Groups** are crea
     - PLATFORMS: Is the decline happening on specific platforms, like iOS, Android or others?
     - OTHER FEATURES: Is the decline in engagement happening in other Facebook features besides Facebook Groups?
     - COMPETITORS: Is the decline in engagement also happening in competitive products?
+
+### What metrics would you use for Airbnb’s Experiences feature?
+  - [Here](https://medium.com/stellarpeers/what-metrics-would-you-use-for-airbnbs-experiences-feature-9ca0b950ac08) is the article.
+  - It talks about the customer funnel.
