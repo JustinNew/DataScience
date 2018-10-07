@@ -25,6 +25,10 @@ So, how do we measure **Groups**? Are they healthy? Echo why **Groups** are crea
 
   - If you have a two side marketplace, you need to measure something that will benefit both sides, such as finished rides for Uber and transactions for eBay. 
 
+  - Cohort measurement of user retention. This will let you know what happens to users overtime. 
+
+  - Metrics let you measure to make sure that you are in the right direction.
+
 ## Example Questions
 
 #### How would you find the cause of a 15% drop in Facebook Groups usage?
