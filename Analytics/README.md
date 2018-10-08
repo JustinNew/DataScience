@@ -1,6 +1,10 @@
 Analytics
 ==========
 
+## Growth
+
+### [Growth Hacker](https://growthhackers.com/)
+
 ## [Alex Schultz Talks About Growth](https://www.youtube.com/watch?v=n_yHZ_vKjno)
 
 For any Startup, the first thing is to have good products. With good products, we can get users. Only after we get users, we can start thinking about retention. To have good retention is critical for your business. However, what is good retention can be very different depending on the business vetical. For Facebook, 80% retention is bad. For eCommence, 20% retention is good. For Netflix, the retention is about 91% (9% churn rate).
@@ -45,3 +49,9 @@ So, how do we measure **Groups**? Are they healthy? Echo why **Groups** are crea
 ### What metrics would you use for Airbnb’s Experiences feature?
   - [Here](https://medium.com/stellarpeers/what-metrics-would-you-use-for-airbnbs-experiences-feature-9ca0b950ac08) is the article.
   - It talks about the customer funnel.
+
+### Effects to reverse retention curve
+  - Network effects. Facebook, Uber driver up and rider up, ...
+  - Opening up new interface. iOS, Android.
+  - Adding categories. Amazon, ...
+  - 
