@@ -58,4 +58,4 @@ Two disadvantages of k-means:
 	   - Latent Attrition Process:
          - After any transaction, a customer dies with probability **p**.
          - Heterogeneity in death probabilities across customers is distributed beta(**a**, **b**).
-    - [Noncontractual problem](http://www.brucehardie.com/talks/cba_tut_art_15_HO.pdf)
+     - [Noncontractual problem](http://www.brucehardie.com/talks/cba_tut_art_15_HO.pdf)
