@@ -71,18 +71,18 @@ Two disadvantages of k-means:
 
 ### Ad Click Prediciton
 
-    - There is a criteo [Kaggle competition](https://www.kaggle.com/c/criteo-display-ad-challenge) about it. 
-    - There is a [blog](https://mlwave.com/predicting-click-through-rates-with-online-machine-learning/) talking about this competition.
-    - Binary Classification problem
-    - Requirements
-      - Features are “extremely sparse”
-      - Serving must happen quickly, at a rate of billions of predictions per day
-    - Given sparsity level and scalability requirements, online regularized logistic regression seems to be the way to go. 
-    - Data to use, feature to use
-      - user information like city, state, os version, os family, device, browser family browser version, city, etc
-      - user past behavior: "user's prior impressions", "user's prior clicks" and "user's prior click-through-rate", etc 
-      - Publisher features, such as the domain of the url where the ad was displayed;
-      - Advertiser features (advertiser id, type of products,…)
-      - User features, for instance browser type;
-      - Interaction of the user with the advertiser, such as the number of the times the user visited the advertiser website.
-    - Algorithm to use [Vowpal Wabbit](https://github.com/VowpalWabbit/vowpal_wabbit/wiki)
+  - There is a criteo [Kaggle competition](https://www.kaggle.com/c/criteo-display-ad-challenge) about it. 
+  - There is a [blog](https://mlwave.com/predicting-click-through-rates-with-online-machine-learning/) talking about this competition.
+  - Binary Classification problem
+  - Requirements
+    - Features are “extremely sparse”
+    - Serving must happen quickly, at a rate of billions of predictions per day
+  - Given sparsity level and scalability requirements, online regularized logistic regression seems to be the way to go. 
+  - Data to use, feature to use
+    - user information like city, state, os version, os family, device, browser family browser version, city, etc
+    - user past behavior: "user's prior impressions", "user's prior clicks" and "user's prior click-through-rate", etc 
+    - Publisher features, such as the domain of the url where the ad was displayed;
+    - Advertiser features (advertiser id, type of products,…)
+    - User features, for instance browser type;
+    - Interaction of the user with the advertiser, such as the number of the times the user visited the advertiser website.
+  - Algorithm to use [Vowpal Wabbit](https://github.com/VowpalWabbit/vowpal_wabbit/wiki)
