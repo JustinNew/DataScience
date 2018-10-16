@@ -67,7 +67,19 @@ Two disadvantages of k-means:
   - What models to use? 
   - What data to collect? What features to use?
   - How to evaluate the model?
+    - Offline evaluation
+    - Online evaluation, metrics, monitoring
+  - Where to spend time to improve your model?
+    - More data
+    - Better feature engineering
+    - More sophisticated models
   - How to put into production?
+
+Examples:
+  - How would you build an ad click prediction system, or homefeed ranking system, or translation service, or query ranking model etc?
+  - [Build A Spam Classifier](https://www.ritchieng.com/machine-learning-systems-design/)
+  - [An example from AirBnB](https://medium.com/airbnb-engineering/designing-machine-learning-models-7d0048249e69)
+  - [Here](https://medium.com/louis-dorard/from-data-to-ai-with-the-machine-learning-canvas-part-i-d171b867b047) is a blog talks about ML system design blocks.
 
 ### Ad Click Prediciton
 
