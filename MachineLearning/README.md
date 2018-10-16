@@ -36,6 +36,7 @@ Two disadvantages of k-means:
      - a python package to calculate CLV
      - [This is a tutorial to calculate CLV using this package.](https://www.internetrix.com.au/blog/how-to-model-customer-lifetime-value/)
 	 - [BG/NBD Model](http://www.brucehardie.com/talks/cba_tut_art_15_HO.pdf)
+           - [Grocery Purchases](http://www.brucehardie.com/talks/cba_tut_art_15_HO.pdf): Slide 148
 
   3. [Survival Analysis](https://www.youtube.com/watch?v=lBijo0WhwYM)
      - contractual context: credit cards, netflix, fitness club, etc. 
