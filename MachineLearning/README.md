@@ -59,3 +59,30 @@ Two disadvantages of k-means:
          - After any transaction, a customer dies with probability **p**.
          - Heterogeneity in death probabilities across customers is distributed beta(**a**, **b**).
      - [Noncontractual problem](http://www.brucehardie.com/talks/cba_tut_art_15_HO.pdf)
+
+## ML System Design
+
+  - What kind of problem? Classification or Regression or Forecast?
+  - How about the data size? How about the speed requirement? How about time complexity?
+  - What models to use? 
+  - What data to collect? What features to use?
+  - How to evaluate the model?
+  - How to put into production?
+
+### Ad Click Prediciton
+
+    - There is a criteo [Kaggle competition](https://www.kaggle.com/c/criteo-display-ad-challenge) about it. 
+    - There is a [blog](https://mlwave.com/predicting-click-through-rates-with-online-machine-learning/) talking about this competition.
+    - Binary Classification problem
+    - Requirements
+      - Features are “extremely sparse”
+      - Serving must happen quickly, at a rate of billions of predictions per day
+    - Given sparsity level and scalability requirements, online regularized logistic regression seems to be the way to go. 
+    - Data to use, feature to use
+      - user information like city, state, os version, os family, device, browser family browser version, city, etc
+      - user past behavior: "user's prior impressions", "user's prior clicks" and "user's prior click-through-rate", etc 
+      - Publisher features, such as the domain of the url where the ad was displayed;
+      - Advertiser features (advertiser id, type of products,…)
+      - User features, for instance browser type;
+      - Interaction of the user with the advertiser, such as the number of the times the user visited the advertiser website.
+    - Algorithm to use [Vowpal Wabbit](https://github.com/VowpalWabbit/vowpal_wabbit/wiki)
