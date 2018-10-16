@@ -99,3 +99,7 @@ Examples:
     - User features, for instance browser type;
     - Interaction of the user with the advertiser, such as the number of the times the user visited the advertiser website.
   - Algorithm to use [Vowpal Wabbit](https://github.com/VowpalWabbit/vowpal_wabbit/wiki)
+
+### Demand Forecast
+
+  - [5 Demand Forecasting Best Practices for Smarter Predictions and Better Results](https://dearsystems.com/inventory-software/blog/demand-forecasting-best-practices/)
