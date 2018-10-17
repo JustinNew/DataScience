@@ -103,3 +103,10 @@ Examples:
 ### Demand Forecast
 
   - [5 Demand Forecasting Best Practices for Smarter Predictions and Better Results](https://dearsystems.com/inventory-software/blog/demand-forecasting-best-practices/)
+
+### Dynamic Pricing / Surge Pricing
+
+  - The supply and the demand curve are highly elastic. 
+    - It has been proved since the advent of surge pricing that higher prices lead to an increase in supply.
+  - 给出一个heuristic来计算Uber的surge price，不同heuristic的pros和cons
+  - On a very basic level, surge pricing is [a direct function of the supply-demand curve.](https://www.quora.com/How-does-Ubers-surge-pricing-algorithm-work)
