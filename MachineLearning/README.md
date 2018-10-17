@@ -108,6 +108,18 @@ Examples:
     - CLV 
     - Time Series
 
+#### [Uber Demand Forecast](https://eng.uber.com/neural-networks/)
+
+#### Instacart Demand Forecast
+
+  - Regression
+  - Features
+    - Customer number, Customer Info, Customer recent purchase number (1 day, 1 week, ...), Customer Recency Percent, Customer Frequency Percent, ...
+    - Date, Time, Holiday
+    - Number of Partners
+    - Delivery Price
+    - Promotions, Campaigns
+
 ### Dynamic Pricing / Surge Pricing
 
   - The supply and the demand curve are highly elastic. 
