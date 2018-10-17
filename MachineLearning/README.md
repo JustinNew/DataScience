@@ -108,9 +108,10 @@ Examples:
     - CLV 
     - Time Series
 
-#### [Uber Demand Forecast](https://eng.uber.com/neural-networks/)
+#### Uber Demand Forecast
 
-  - [Extreme Event Forecasting at Uber with Recurrent Neural Networks](http://roseyu.com/time-series-workshop/submissions/TSW2017_paper_3.pdf)
+  - [Extreme Event Forecasting at Uber with Recurrent Neural Networks](https://eng.uber.com/neural-networks/) 
+    - [The Paper](http://roseyu.com/time-series-workshop/submissions/TSW2017_paper_3.pdf)
     - Forecasting for extreme events can be difficult because of their infrequency. To overcome this data deficiency, we decided to train a single, flexible neural network to model data from many cities at once, which greatly improved our accuracy.
     - Our goal was to design a generic, end-to-end time series forecasting model that is scalable, accurate, and applicable to heterogeneous time series. To achieve this, we used thousands of time series to train a multi-module neural network.
     - We decided to build a neural network architecture that provides single-model, heterogeneous forecasting through an automatic feature extraction module.
