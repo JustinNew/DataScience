@@ -103,6 +103,10 @@ Examples:
 ### Demand Forecast
 
   - [5 Demand Forecasting Best Practices for Smarter Predictions and Better Results](https://dearsystems.com/inventory-software/blog/demand-forecasting-best-practices/)
+  - Approaches
+    - Regression
+    - CLV 
+    - Time Series
 
 ### Dynamic Pricing / Surge Pricing
 
