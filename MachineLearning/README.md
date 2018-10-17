@@ -111,6 +111,11 @@ Examples:
 #### [Uber Demand Forecast](https://eng.uber.com/neural-networks/)
 
   - [Extreme Event Forecasting at Uber with Recurrent Neural Networks](http://roseyu.com/time-series-workshop/submissions/TSW2017_paper_3.pdf)
+    - Forecasting for extreme events can be difficult because of their infrequency. To overcome this data deficiency, we decided to train a single, flexible neural network to model data from many cities at once, which greatly improved our accuracy.
+    - Our goal was to design a generic, end-to-end time series forecasting model that is scalable, accurate, and applicable to heterogeneous time series. To achieve this, we used thousands of time series to train a multi-module neural network.
+    - We decided to build a neural network architecture that provides single-model, heterogeneous forecasting through an automatic feature extraction module.
+    - For the purpose of this article, we built a model using the five-year daily history of completed Uber trips across the U.S. over the course of seven days before, during, and after major holidays like Christmas Day and New Year’s Day.
+    - While neural networks are beneficial for Uber, this method is not a silver bullet. From our experience, we define three dimensions for deciding if the neural network model is right for your use case: (a) number of time series, (b) length of time series, and (c) correlation among time series. All three of these dimensions increase the likelihood that the neural network approach will forecast more accurately relative to the classical time series model.
 
 #### Instacart Demand Forecast
 
