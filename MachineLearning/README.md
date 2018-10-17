@@ -110,6 +110,8 @@ Examples:
 
 #### [Uber Demand Forecast](https://eng.uber.com/neural-networks/)
 
+  - [Extreme Event Forecasting at Uber with Recurrent Neural Networks](http://roseyu.com/time-series-workshop/submissions/TSW2017_paper_3.pdf)
+
 #### Instacart Demand Forecast
 
   - Regression
