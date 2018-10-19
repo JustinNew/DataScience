@@ -1,7 +1,7 @@
 Analytics
 ==========
 
-## How to answer a metric problem
+## [How to answer a metric problem](https://medium.com/stellarpeers)
 
 ### **How to structure your answer? We suggest structuring your answer in the following way:**
 
