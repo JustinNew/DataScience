@@ -5,7 +5,7 @@ Analytics
 
 ### **How to structure your answer? We suggest structuring your answer in the following way:**
 
-  - Key: What? For Who? Profit or Engagement? Usage Stages? 
+  - Key: What? For Who? Profit or Engagement? Usage Stages/Different Components? 
 
   - Ask clarifying questions to confirm your assumptions (e.g., What does the product do?, Who is the product for?, etc.).
 
