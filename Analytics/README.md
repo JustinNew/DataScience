@@ -5,6 +5,8 @@ Analytics
 
 ### **How to structure your answer? We suggest structuring your answer in the following way:**
 
+  - Key: What? For Who? Profit or Engagement? Usage Stages? 
+
   - Ask clarifying questions to confirm your assumptions (e.g., What does the product do?, Who is the product for?, etc.).
 
   - State or confirm with the interviewer what the goal of the product is (e.g., increasing conversion, revenue, profits, sales, engagement, retention, etc.).
