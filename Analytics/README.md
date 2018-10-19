@@ -15,6 +15,10 @@ Analytics
 
   - Summarize your analysis.
 
+Examples:
+
+  - [How would you measure the success of Lyft Shuttle?](https://medium.com/stellarpeers/how-would-you-measure-the-success-of-lyft-shuttle-5326796fcb48)
+
 ## Growth
 
 ### [Growth Hacker](https://growthhackers.com/)
