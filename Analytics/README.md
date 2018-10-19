@@ -1,6 +1,20 @@
 Analytics
 ==========
 
+## How to answer a metric problem
+
+### **How to structure your answer? We suggest structuring your answer in the following way:**
+
+  - Ask clarifying questions to confirm your assumptions (e.g., What does the product do?, Who is the product for?, etc.).
+
+  - State or confirm with the interviewer what the goal of the product is (e.g., increasing conversion, revenue, profits, sales, engagement, retention, etc.).
+
+  - Use the product’s customer lifecycle to drive your analysis of what to measure. For example, think of what to measure at the awareness, engagement, retention and monetization stages.
+
+  - At each stage, identify behaviours that can be defined and quantified with a metric(s). Be detailed and ready to answer how you would gather the data to implement the metric(s).
+
+  - Summarize your analysis.
+
 ## Growth
 
 ### [Growth Hacker](https://growthhackers.com/)
