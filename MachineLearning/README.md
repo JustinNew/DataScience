@@ -127,6 +127,11 @@ Examples:
     - Number of Partners
     - Delivery Price
     - Promotions, Campaigns
+  - New market vs Established market
+
+### [Instacart Staffing Problem](https://tech.instacart.com/no-order-left-behind-no-shopper-left-idle-24ba0600f04f)
+
+  - The idea is to simulate a lot of different variations of demand and supply, and solve for a set of staffing levels that minimizes idleness and lost deliveries costs across all of the simulation runs.
 
 ### Dynamic Pricing / Surge Pricing
 
