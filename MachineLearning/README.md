@@ -153,3 +153,7 @@ Examples:
     - It has been proved since the advent of surge pricing that higher prices lead to an increase in supply.
   - 给出一个heuristic来计算Uber的surge price，不同heuristic的pros和cons
   - On a very basic level, surge pricing is [a direct function of the supply-demand curve.](https://www.quora.com/How-does-Ubers-surge-pricing-algorithm-work)
+
+### LSTM Long Short Term Memory
+
+  - [A very good explanation](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
