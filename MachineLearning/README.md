@@ -132,6 +132,7 @@ Examples:
     - Number of Partners
     - Delivery Price
     - Promotions, Campaigns
+    - Events, like Game of Thrones season finales
   - New market vs Established market
   - **[Elastic Demand Forecasting](https://tech.instacart.com/leveraging-elastic-demand-for-forecasting-6278b45f805f)**
     - In some situations, certain customers are flexible on the product/service options, and so demand shaping strategies such as pricing can influence their choices. The demand that is responsive to demand shaping tactics is referred to as the elastic demand.
@@ -142,7 +143,9 @@ Examples:
 
 ### [Instacart Staffing Problem](https://tech.instacart.com/no-order-left-behind-no-shopper-left-idle-24ba0600f04f)
 
-  - The idea is to simulate a lot of different variations of demand and supply, and solve for a set of staffing levels that minimizes idleness and lost deliveries costs across all of the simulation runs.
+  - Heuristic approach
+  - Monte Carlo
+    - The idea is to simulate a lot of different variations of demand and supply, and solve for a set of staffing levels that minimizes idleness and lost deliveries costs across all of the simulation runs.
 
 ### Dynamic Pricing / Surge Pricing
 
