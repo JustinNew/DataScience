@@ -105,7 +105,6 @@ Examples:
   - [5 Demand Forecasting Best Practices for Smarter Predictions and Better Results](https://dearsystems.com/inventory-software/blog/demand-forecasting-best-practices/)
   - Approaches
     - Regression
-    - CLV 
     - Time Series
 
 #### Uber Demand Forecast
@@ -120,6 +119,12 @@ Examples:
 
 #### Instacart Demand Forecast
 
+  - From using instacart
+    - Zip Code and Address
+    - Select Store
+    - Choose membership or not
+    - Search, Coupon, Browse
+    - Choose Time and Day of delivery
   - Regression
   - Features
     - Customer number, Customer Info, Customer recent purchase number (1 day, 1 week, ...), Customer Recency Percent, Customer Frequency Percent, ...
@@ -128,6 +133,12 @@ Examples:
     - Delivery Price
     - Promotions, Campaigns
   - New market vs Established market
+  - **[Elastic Demand Forecasting](https://tech.instacart.com/leveraging-elastic-demand-for-forecasting-6278b45f805f)**
+    - In some situations, certain customers are flexible on the product/service options, and so demand shaping strategies such as pricing can influence their choices. The demand that is responsive to demand shaping tactics is referred to as the elastic demand.
+    - Goal: shifting the right amount of elastic demand to minimize the difference between the new demand series
+    - Input: historical demand series, and the amount of elastic demand
+    - Output: shifted demand series
+    - With elastic demand considered, the variance of the new demand series at each hour becomes smaller, which would make forecasting more effective.
 
 ### [Instacart Staffing Problem](https://tech.instacart.com/no-order-left-behind-no-shopper-left-idle-24ba0600f04f)
 
