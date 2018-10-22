@@ -108,6 +108,11 @@ Examples:
     - Time Series
     - RNN LSTM Model
 
+### [Kaggple Web Traffic Forecast](https://www.kaggle.com/c/web-traffic-time-series-forecasting)
+
+  - [1st place solution](https://www.kaggle.com/c/web-traffic-time-series-forecasting/discussion/43795)
+    - Used seq2seq RNN model
+
 #### Uber Demand Forecast
 
   - [Extreme Event Forecasting at Uber with Recurrent Neural Networks](https://eng.uber.com/neural-networks/) 
