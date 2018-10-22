@@ -106,6 +106,7 @@ Examples:
   - Approaches
     - Regression
     - Time Series
+    - RNN LSTM Model
 
 #### Uber Demand Forecast
 
