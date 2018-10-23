@@ -156,6 +156,10 @@ Examples:
   - Monte Carlo
     - The idea is to simulate a lot of different variations of demand and supply, and solve for a set of staffing levels that minimizes idleness and lost deliveries costs across all of the simulation runs.
 
+### Instacart Busy Pricing
+
+  - Busy pricing is a tactic to shift elastic demand to other hours/slots, and it's very different from Uber Surge Pricing.
+
 ### Dynamic Pricing / Surge Pricing
 
   - The supply and the demand curve are highly elastic. 
