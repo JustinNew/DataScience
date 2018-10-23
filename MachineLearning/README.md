@@ -156,6 +156,17 @@ Examples:
   - Monte Carlo
     - The idea is to simulate a lot of different variations of demand and supply, and solve for a set of staffing levels that minimizes idleness and lost deliveries costs across all of the simulation runs.
 
+### Dynamic Pricing
+
+**Examplescient Algorithms for Dynamic Pricing Problem with Reference Price Effect**
+by Xin Chen, Peng Hu and Zhenyu Hu at UIUC
+
+  - Despite of the numerous diㄦent problem settings for dynamic pricing, the efforts have been mainly spent on two issues both in academia and industry. 
+    - One issue is to capture the relationship between demand and price accurately.
+    - The other issue is solving the optimal prices elasticciently.
+  - One class of well-studied consumer behavioral models in the marketing and economics literature is memory-based reference price models.
+  - Calculations of optimal strategies were limited to numerical simulations using dynamic programming
+
 ### Instacart Busy Pricing
 
   - Busy pricing is a tactic to shift elastic demand to other hours/slots, and it's very different from Uber Surge Pricing.
