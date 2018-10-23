@@ -65,10 +65,11 @@ Two disadvantages of k-means:
 
 ## ML System Design
 
-  - What kind of problem? Classification or Regression or Forecast?
+  - What kind of problem? Classification or Regression or Forecast? What do we want to predict?
   - How about the data size? How about the speed requirement? How about time complexity?
   - What models to use? 
-  - What data to collect? What features to use?
+  - What data to collect? Do we need to sample data?
+  - What features to use? What kind of feature engineering to do?
   - How to evaluate the model?
     - Offline evaluation
     - Online evaluation, metrics, monitoring
