@@ -159,7 +159,7 @@ Examples:
 ### Dynamic Pricing
 
 **Examplescient Algorithms for Dynamic Pricing Problem with Reference Price Effect**
-by Xin Chen, Peng Hu and Zhenyu Hu at UIUC
+  - by Xin Chen, Peng Hu and Zhenyu Hu at UIUC
 
   - Despite of the numerous diㄦent problem settings for dynamic pricing, the efforts have been mainly spent on two issues both in academia and industry. 
     - One issue is to capture the relationship between demand and price accurately.
