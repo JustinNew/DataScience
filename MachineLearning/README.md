@@ -158,12 +158,12 @@ Examples:
 
 ### Dynamic Pricing
 
-**Examplescient Algorithms for Dynamic Pricing Problem with Reference Price Effect**
+**Effecient Algorithms for Dynamic Pricing Problem with Reference Price Effect**
   - by Xin Chen, Peng Hu and Zhenyu Hu at UIUC
 
-  - Despite of the numerous diㄦent problem settings for dynamic pricing, the efforts have been mainly spent on two issues both in academia and industry. 
+  - Despite of the numerous different problem settings for dynamic pricing, the efforts have been mainly spent on two issues both in academia and industry. 
     - One issue is to capture the relationship between demand and price accurately.
-    - The other issue is solving the optimal prices elasticciently.
+    - The other issue is solving the optimal prices effeciently.
   - One class of well-studied consumer behavioral models in the marketing and economics literature is memory-based reference price models.
   - Calculations of optimal strategies were limited to numerical simulations using dynamic programming
 
