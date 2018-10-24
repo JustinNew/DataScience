@@ -103,13 +103,20 @@ Examples:
     - Interaction of the user with the advertiser, such as the number of the times the user visited the advertiser website.
   - Algorithm to use [Vowpal Wabbit](https://github.com/VowpalWabbit/vowpal_wabbit/wiki)
 
-### Demand Forecast
+### Forecasting / Demand Forecast
 
   - [5 Demand Forecasting Best Practices for Smarter Predictions and Better Results](https://dearsystems.com/inventory-software/blog/demand-forecasting-best-practices/)
   - Approaches
     - Regression
     - Time Series
     - RNN LSTM Model
+
+  - [The nonsense random walk forecasting](https://towardsdatascience.com/how-not-to-use-machine-learning-for-time-series-forecasting-avoiding-the-pitfalls-19f9d7adf424)
+    - How (not) to use Machine Learning for time series forecasting: Avoiding the pitfalls
+    - The story of a seemly good forecast
+
+  - [Forecasting: Principles and Practice](https://otexts.org/fpp2/)
+    - [Seasonal ARIMA](https://otexts.org/fpp2/seasonal-arima.html)
 
 ### [Kaggple Web Traffic Forecast](https://www.kaggle.com/c/web-traffic-time-series-forecasting)
 
